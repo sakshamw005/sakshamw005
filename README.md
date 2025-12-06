@@ -5,9 +5,8 @@
 <br>
 
 <div>
-  
   <img src="https://files.catbox.moe/wsomuu.gif" align="right" height="230">
-
+</div>
   <br>
 
   <li><b>Cybersecurity student exploring how systems break, behave, and can be better defended.</b></li><br>
