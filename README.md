@@ -5,7 +5,7 @@
 <br>
 
 <div>
-  <img src="https://files.catbox.moe/wsomuu.gif" align="right" height="230">
+  <img src="https://i.pinimg.com/736x/54/d5/d0/54d5d0e02a51f84d265dab4593b4fa12.jpg" align="right" height="230">
 </div>
   <br>
 
