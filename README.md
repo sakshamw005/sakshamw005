@@ -6,7 +6,7 @@
 
 <div>
   
-  <img src="https://pin.it/58KUZrBCd" align="right" height="230">
+  <img src="https://i.pinimg.com/originals/70/08/fb/7008fba700f0ad078cf8ff99d04b743f.gif" align="right" height="230">
 
   <br>
 
