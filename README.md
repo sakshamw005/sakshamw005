@@ -6,7 +6,7 @@
 
 <div>
   
-  <img src="https://giphy.com/gifs/future-careers-uniblog-12W5Sg2koWYnwA" align="right" height="230">
+  <img src="https://in.pinterest.com/pin/10414642883136449/" align="right" height="230">
 
   <br>
 
