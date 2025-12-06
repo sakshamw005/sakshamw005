@@ -6,7 +6,7 @@
 
 <div>
   
-  <img src="https://jumpshare.com/s/PuuEQJ6t1iGyXKhplQpg" align="right" height="230">
+  <img src="https://files.catbox.moe/wsomuu.gif" align="right" height="230">
 
   <br>
 
