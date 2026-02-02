@@ -32,7 +32,9 @@
 <h2><samp>&gt; TechStack</samp></h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,linux,kali,ubuntu,wireshark,metasploit,burpsuite,virtualbox,nodejs,typescript,react,vite,mysql,mongodb,sklearn,keras,tensorflow,git,docker" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,linux,kali,ubuntu,wireshark,metasploit,burpsuite,virtualbox" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,react,vite,mysql,mongodb,sklearn,keras,tensorflow,git,docker" />
 </p>
 
 <h2><samp>&gt; Featured Projects</samp></h2>
