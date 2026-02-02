@@ -31,31 +31,18 @@
 
 <h2><samp>&gt; TechStack</samp></h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,javascript,python,linux,kali,ubuntu" />
-    </td>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=wireshark,metasploit,burpsuite,virtualbox" />
-    </td>
-  </tr>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,linux,kali,ubuntu" /><br><br>
 
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,typescript,react,vite,mysql,mongodb" />
-    </td>
-  </tr>
+<img src="https://skillicons.dev/icons?i=wireshark,metasploit,burpsuite,virtualbox" /><br><br>
 
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sklearn,keras,tensorflow,git,docker" />
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,react,vite,mysql,mongodb" /><br><br>
+
+<img src="https://skillicons.dev/icons?i=sklearn,keras,tensorflow,git,docker" />
+
+</div>
+
 
 <h2><samp>&gt; Featured Projects</samp></h2>
 
