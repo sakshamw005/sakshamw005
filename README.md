@@ -37,16 +37,19 @@
       <img src="https://skillicons.dev/icons?i=java,javascript,python,linux,kali,ubuntu" />
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,typescript,react,vite,mysql,mongodb" />
-    </td>
-  </tr>
+
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=wireshark,metasploit,burpsuite,virtualbox" />
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,typescript,react,vite,mysql,mongodb" />
+    </td>
+  </tr>
+
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=sklearn,keras,tensorflow,git,docker" />
