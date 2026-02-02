@@ -1,6 +1,3 @@
-<img width="447" height="253" alt="image" src="https://github.com/user-attachments/assets/bfe196c5-7cb2-4fe6-a77d-7677e327d591" /><!DOCTYPE html>
-<body>
-
 <h1 align="center"><samp>&gt; Hey, I’m <b><a href="https://www.linkedin.com/in/saksham-wadhwa-25a956211/" target="_blank">Saksham Wadhwa</a></b></samp></h1>
 <br>
 
