@@ -6,7 +6,7 @@
 </div>
   <br>
 
-  <li><b>Cybersecurity student exploring how systems break, behave, and can be better defended.</b></li><br>
+  <li><b>Exploring how systems are made , break, behave, and can be better defended.</b></li><br>
 
   <li><b>Currently engineering <i>SOCify</i> - my own SIEM/SOAR platform with multi-agent log streaming & detection rules.</b></li><br>
 
